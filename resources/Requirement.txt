@@ -1,0 +1,10 @@
+1. Registration (email, password, no hp, address) - 10
+2. Login (by email) - 5
+3. Contact Us (ada form bisa langsung email) - 10
+4. Term of Use (popup muncul di awal) - 5
+5. Forgot password (masukin email terus dikirimin reset password link dan password hasil reset) - 10
+6. Bisa generate kode kupon (masukin db), terus tampilin - 10
+7. Kalo kupon di klik bisa invalidate (kaya di line) - 10
+8. Tampilan list kupon, baca database - 10
+9. Data kupon di ambil dari data real groupon (site scrapping) - 15
+10. Backend - insert update delete - 15
